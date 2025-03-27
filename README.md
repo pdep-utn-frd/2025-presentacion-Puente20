@@ -13,5 +13,5 @@ Soy Tomás Puente de la Fuente, estoy estudiando ingeniería en sistemas de info
 - Paradigmas de programación
 - Análisis de sistemas de información
 - Arquitectura de computadoras
-# Una foto mia
+# Una foto mía
 ![](https://github.com/user-attachments/assets/e01314fd-d634-43d5-af99-43bbe8b10dfd)
